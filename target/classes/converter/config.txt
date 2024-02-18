@@ -1,0 +1,2 @@
+sourceFolder=C:\\Users\\tejas\\Documents\\Interface Files Store
+outputFolder=C:\\Users\\tejas\\Documents\\CSV Outputs
