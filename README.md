@@ -1,4 +1,4 @@
-Converet-To-CSC Introduction:
+Converet-To-CSV Introduction:
 
 The Java program serves a critical role within a larger project, functioning as an integral part of a data processing pipeline. This program is designed to address the challenges of handling diverse data formats and ensuring the integrity of the data before further processing. The program's primary focus lies in converting various input file formats into CSV files, which are pivotal for downstream data cleansing and analysis through FluentD. 
 
